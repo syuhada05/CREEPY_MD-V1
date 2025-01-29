@@ -1,9 +1,9 @@
  <p align="center">
-  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏</h1>
+  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">𝒎𝒐𝒄𝒉𝒊'𝒔𝒔_𝒗𝟏</h1>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓+𝓥𝟏;Created+by+𝒟𝒶𝓃𝓃𝓎;Fork+Me+and+Enjoy!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+𝒎𝒐𝒄𝒉𝒊'𝒔𝒔_𝒗𝟏;Created+by+𝒎𝒐𝒄𝒉𝒊'𝒔𝒔;Fork+Me+and+Enjoy!" alt="Typing SVG" />
 </p>
 
 <p align="center">
